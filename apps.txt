@@ -1,0 +1,4 @@
+# One app ID or App Store URL per line. Replace these with your targets.
+# Example public App Store ID:
+333903271
+https://apps.apple.com/us/app/id284882215
